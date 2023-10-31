@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/ENDWwEat",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "MurderDrones/placeFR J collab",
+      "sources": [
+        "https://media.discordapp.net/attachments/1131567765430472745/1132350362456690770/frenchJ.png"
+      ],
+      "x": 2,
+      "y": 900
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}

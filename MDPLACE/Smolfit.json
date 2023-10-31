@@ -1,0 +1,16 @@
+{
+  "contact": "discord.gg/ENDWwEat",
+  "notifications": "",
+  "templates": [
+    {
+      "name": "Murder Drones",
+      "sources": [
+        "https://files.catbox.moe/633rca.png"
+      ],
+      "x": 378,
+      "y": 1136
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
