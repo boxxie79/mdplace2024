@@ -10,5 +10,9 @@ If you're here to make your own template, you're in the wrong [place](https://do
 If you would like an alliance, please talk about it in the [#rplace-diplomacy](https://discord.com/channels/959878009836404746/) channel.
 It may be disregarded unless we are neighbours on the canvas, or you're representing another Glitch Productions series.
 
+Don't bother with pull requests or issues, just ping someone if online:
+- @boxxie79
+- ??
+- ??
 
 Imagine all this preparation for nothing to happen next year...
