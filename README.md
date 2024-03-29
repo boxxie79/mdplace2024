@@ -5,7 +5,7 @@ With Tampermonkey installed, go to [this link](https://github.com/osuplace/templ
 You will find a [new config button](https://github.com/boxxie79/mdplace2024/blob/main/tutorial_images/configbutton.png) on the canvas. Press it, and find the [always load box](https://github.com/boxxie79/mdplace2024/blob/main/tutorial_images/alwaysloadbox.png), then enter the template link.
 
 Unlike last year, the template link will never change.
-# Template link: https://raw.githubusercontent.com/boxxie79/mdplace2024/main/images/templates/TEMPLATE_MAIN.json
+# Template link: https://raw.githubusercontent.com/boxxie79/mdplace2024/main/templates/TEMPLATE_MAIN.json
 
 ## Please, join the [Discord](https://discord.gg/murderdronesplace) and dont spam the r/MurderDrones subreddit. We are not affiliated with them.
 
