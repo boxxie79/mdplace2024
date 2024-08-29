@@ -19,3 +19,5 @@ Don't bother with pull requests or issues, just ping someone on Discord if they'
 - ??
 
 Imagine all this preparation for nothing to happen next year...
+
+August 29th note: prankd
